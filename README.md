@@ -1,3 +1,3 @@
 # ai_app
 
-A new Flutter project.
+An AI Chat App that uses Google's Gemimi Api
