@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
       create: (_) => Conversations(),
 
       child: Scaffold(
-        appBar: AppBar(title: Text("AI Hype Train 🤡"), centerTitle: true),
+        appBar: AppBar(title: Text("AI Chat App"), centerTitle: true),
 
         body: Padding(
           padding: const EdgeInsets.all(8.0),
